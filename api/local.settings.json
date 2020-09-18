@@ -4,8 +4,8 @@
       "AzureWebJobsStorage": "",
       "FUNCTIONS_WORKER_RUNTIME": "node",
       "NODE_TLS_REJECT_UNAUTHORIZED" : "1",
-      "MigrosApiPassword": "...",
-      "MigrosApiUsername": "...",
+      "MigrosApiPassword": "uhSyJ08KexKn4ZFS",
+      "MigrosApiUsername": "hackzurich2020",
       "MigrosApiVersion": "7",
       "MigrosApiEndpoint": "https://hackzurich-api.migros.ch"
     },
